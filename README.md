@@ -9,7 +9,7 @@ Preferendus_model_2.xlsm: This is the main file of the tool where the input and 
 This Excel file is connected to python via xlwings, the python algorithms will run on te background when the tool is runned from Excel.
 
 Other Files: Several other files are included in the repository, which are necessary for the proper functioning of the tool. These files run in the background and support various functionalities of the main file. 
-It is important to download the entire repository to your computer without changing the hierarchy of the different files and folders to ensure smooth operation.
+It is important to download the entire repository to your computer without changing the hierarchy of the different files and folders to ensure smooth operation (expect for the requirements, license, etc.).
 
 **Instructions for Use**
 
