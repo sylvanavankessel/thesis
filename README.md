@@ -5,7 +5,7 @@ The objective of this project is to create a tool that facilitates the incorpora
 
 **Repository Contents**
 
-Preferendus_model_2.xlsm: This is the main file of the tool where the input and output are presented. It is an Excel file designed to provide users with a user-friendly interface for inputting data and viewing results. 
+Preferendus_model.xlsm: This is the main file of the tool where the input and output are presented. It is an Excel file designed to provide users with a user-friendly interface for inputting data and viewing results. 
 This Excel file is connected to python via xlwings, the python algorithms will run on te background when the tool is runned from Excel.
 
 Other Files: Several other files are included in the repository, which are necessary for the proper functioning of the tool. These files run in the background and support various functionalities of the main file. 
@@ -15,7 +15,7 @@ It is important to download the entire repository to your computer without chang
 
 1. Download: Clone or download the entire repository to your computer.
 
-2. Open Main File: Open the file Preferendus_model_2.xlsm in Microsoft Excel.
+2. Open Main File: Open the file Preferendus_model.xlsm in Microsoft Excel.
 
 3. Input Data: Input relevant data into the tool as per the provided instructions or guidelines, which can found in the tool or in the accompanying report to this project.
 
